@@ -1,12 +1,14 @@
 
-import styles from  './App.module.css'
 import {Navbar} from './components/Navbar/Navbar.jsx'
+import './App.css'
+import Hero from './components/hero/hero.jsx';
 
 function App() {
 
   return (
-    <div className={styles.App}>
+    <div className='App'>
         <Navbar />
+        <Hero />
     </div>
   )
 }
