@@ -8,7 +8,7 @@
   z-index: 1;
   margin-top: 129px;
   margin-left: 10%;
-  margin-left: 10%;
+  margin-right: 10%;
 }
 .title {
   font-size: 35px;
@@ -58,7 +58,7 @@
 .listItemContent p {
   font-size: 25px;
 }
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 786px) {
   .container {
     background-color: transparent;
     padding-left: 0;
