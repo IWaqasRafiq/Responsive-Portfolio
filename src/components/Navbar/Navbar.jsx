@@ -15,9 +15,7 @@ export const Navbar = () => {
             ? getImageUrl("nav/closeIcon.png")
             : getImageUrl("nav/menuIcon.png")} />
 
-        <ul className={styles.menuItems}
-          style={{ display: isMenuOpen ? 'flex' : 'none' }}
-          onClick={() => setIsMenuOpen(false)}>
+        <ul className={`${styles.menuItems} ${isMenuOpen && styles.isMenuOpen}`} onClick={() => setIsMenuOpen(false)}>
           <li>
             <a href="#about">About</a>
           </li>

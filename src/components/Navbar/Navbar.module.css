@@ -32,6 +32,9 @@
   text-decoration: none;
   color: var(--color-text);
 }
+  .menuBtn {
+    display: none;
+  }
 
 @media screen and (max-width: 786px) {
   .navbar {
@@ -49,7 +52,7 @@
     z-index: 3;
   }
   .menuBtn {
-    display: block;
+    display: block ;
     cursor: pointer;
   }
 
@@ -67,5 +70,9 @@
     );
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .isMenuOpen{
+    display: flex;
+    z-index: 1;
   }
 }
