@@ -8,9 +8,8 @@ const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Waqas</h1>
                 <p className={styles.description}>
-                    I’m a full-stack developer with a year
-                    of experience using React and NodeJS.
-                    Reach out if you’d like to learn more!.
+                    <b>Full-Stack Developer. </b> 
+                    I work with React and Node.js to create clean, responsive, and user-friendly web applications. I’m continuously improving my skills through real-world projects and passionate about bringing ideas to life through code.
                 </p>
                 <a className={styles.contact}
                     href="mailto:wm66179@gmail.com">Contact Me</a>

@@ -16,15 +16,35 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Expressjs",
+    "imageSrc": "skills/express-js.png"
+  },
+  {
+    "title": "Pinecone",
+    "imageSrc": "skills/pinecone.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind-css.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/Firebase.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Cloudinary",
+    "imageSrc": "skills/Cloudinary.png"
   }
 ]

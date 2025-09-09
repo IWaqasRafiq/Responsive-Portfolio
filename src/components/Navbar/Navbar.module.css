@@ -31,6 +31,7 @@
 .menuItems li a {
   text-decoration: none;
   color: var(--color-text);
+  font-size: 22px;
 }
   .menuBtn {
     display: none;

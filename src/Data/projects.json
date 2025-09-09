@@ -1,15 +1,15 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Weather App",
+    "imageSrc": "projects/weather-app.png",
+    "description": "Displays live weather updates with a clean, responsive UI.",
+    "skills": ["React",  "Bootstrap", "Axios", "Chakra UI"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
     "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/plant-web.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
@@ -17,7 +17,47 @@
   },
   {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/burger-web.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/zowear.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/chat-app.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/nikeshoes.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/medihome.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/wanderlust.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",

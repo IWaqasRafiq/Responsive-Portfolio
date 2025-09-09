@@ -63,10 +63,10 @@
   background: #19376d;
   background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 100, 0) 100%);
   border-radius: 10px;
-  padding: 24px;
+  padding: 30px;
 }
 .historyItem img {
-  width: 50px;
+  width: 100px;
 }
 .historyItemDetails {
   font-family: var(--font-roboto);
@@ -75,11 +75,19 @@
   font-size: 30px;
   font-weight: 700;
   color: var(--color-text);
+  margin-bottom: 7px;
+}
+.historyItemDetails h4 {
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 7px;
 }
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
   color: var(--color-text);
+  margin-bottom: 7px;
 }
 .historyItemDetails ul {
   margin-top: 6px;
@@ -87,6 +95,44 @@
   list-style: none;
   list-style-type: disc;
   margin-left: 17px;
+  margin-bottom: 7px;
+}
+@media screen and (max-width: 1024px) {
+  .skills {
+    width: 35%;
+    gap: 15px;
+  }
+  .skill {
+    gap: 15px;
+  }
+  .skillImage {
+    width: 80px;
+    height: 80px;
+  }
+  .skillImage img {
+    width: 50px;
+  }
+  .skill p {
+    font-size: 20px;
+  }
+  .history {
+    width: 50%;
+  }
+  .historyItem img {
+    width: 80px;
+  }
+  .historyItemDetails h3 {
+    font-size: 25px;
+  }
+  .historyItemDetails h4 {
+    font-size: 20px;
+  }
+  .historyItemDetails p {
+    font-size: 18px;
+  }
+  .historyItemDetails ul {
+    font-size: 18px;
+  }
 }
 @media screen and (max-width: 768px) {
   .content {
@@ -94,7 +140,7 @@
     align-items: center;
     gap: 20px;
   }
-  .skills{
+  .skills {
     width: 100%;
     flex-direction: row;
     justify-content: center;
@@ -103,5 +149,34 @@
     width: 100%;
     gap: 15px;
   }
-    
+  .skillImage {
+    width: 70px;
+    height: 70px;
+  }
+  .skillImage img {
+    width: 40px;
+  }
+  .skill p {
+    font-size: 18px;
+  }
+  .container {
+    margin-top: 40px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .historyItem img {
+    width: 80px;
+  }
+  .historyItemDetails h3 {
+    font-size: 20px;
+  }
+  .historyItemDetails h4 {
+    font-size: 18px;
+  }
+  .historyItemDetails p {
+    font-size: 15px;
+  }
+  .historyItemDetails ul {
+    font-size: 15px;
+  }
 }

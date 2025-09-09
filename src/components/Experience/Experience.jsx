@@ -7,7 +7,7 @@ import styles from './Experience.module.css'
 const Experience = () => {
   return (
     <section id='experience' className={styles.container}>
-      <h2 className={styles.title}>Experience</h2>
+      <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
@@ -29,8 +29,9 @@ const Experience = () => {
                   alt={`${historyItem.organization}Logo`} />
                 <div className={styles.historyItemDetails}>
                   <h3>
-                    {`${historyItem.role}, ${historyItem.organization}`}
+                    {`${historyItem.role}`}
                   </h3>
+                  <h4> {`${historyItem.organization}`} </h4>
                   <p>{`${historyItem.startDate}, ${historyItem.endDate}`}</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
