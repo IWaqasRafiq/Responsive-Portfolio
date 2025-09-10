@@ -14,17 +14,18 @@
   font-family: var(--font-roboto);
   color: var(--color-text);
 }
-.content {
+/* .content {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   margin-top: 34px;
-}
+} */
 .skills {
-  width: 45%;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  margin-top: 30px;
 }
 .skill {
   display: flex;
@@ -99,7 +100,7 @@
 }
 @media screen and (max-width: 1024px) {
   .skills {
-    width: 35%;
+    width: 100%;
     gap: 15px;
   }
   .skill {
@@ -143,7 +144,7 @@
   .skills {
     width: 100%;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
   }
   .history {
     width: 100%;

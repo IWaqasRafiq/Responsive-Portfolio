@@ -12,7 +12,9 @@ const Hero = () => {
                     I work with React and Node.js to create clean, responsive, and user-friendly web applications. I’m continuously improving my skills through real-world projects and passionate about bringing ideas to life through code.
                 </p>
                 <a className={styles.contact}
-                    href="mailto:wm66179@gmail.com">Contact Me</a>
+                    href="/resume.pdf"
+                    download="waqas-rafiq.pdf"
+                    >Download CV</a>
             </div>
             <img className={styles.image}
                 src={getImageUrl("hero/heroImage.png")} alt="" />

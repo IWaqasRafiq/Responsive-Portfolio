@@ -1,66 +1,66 @@
 [
   {
+    "title": "Chat Web App",
+    "imageSrc": "projects/chat-app.png",
+    "description": "A full-stack real-time chat application with authentication, image sharing, and instant messaging powered by WebSockets.",
+    "skills": ["MERN", "Socket.io"],
+    "demo": "https://quickchap.vercel.app",
+    "source": "https://github.com/IWaqasRafiq/Chat-App"
+  },
+  {
+    "title": "Medihome",
+    "imageSrc": "projects/medihome.png",
+    "description": "A healthcare platform that allows patients to book doctor, while admins and doctors can manage schedules and records.",
+    "skills": ["MERN", "Cloudinary", "JWT", "Tailwind CSS"],
+    "demo": "https://github.com/IWaqasRafiq/Medihome",
+    "source": "https://github.com/IWaqasRafiq/Medihome"
+  },
+  {
+    "title": "Quik Cart",
+    "imageSrc": "projects/zowear.png",
+    "description": "A full-stack eCommerce web app with authentication, product management, and cloud integration.",
+    "skills": ["MERN", "Next js", "Cloudinary", "Clerk"],
+    "demo": "https://quick-cart-coral-five.vercel.app/",
+    "source": "https://github.com/IWaqasRafiq/QuickCart"
+  },
+  {
     "title": "Weather App",
     "imageSrc": "projects/weather-app.png",
     "description": "Displays live weather updates with a clean, responsive UI.",
-    "skills": ["React",  "Bootstrap", "Axios", "Chakra UI"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "Bootstrap", "Axios", "Chakra UI"],
+    "demo": "https://reactjs-weather-app-psi.vercel.app/",
+    "source": "https://www.github.com/IWaqasRafiq/Reactjs-Weather-App "
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/plant-web.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/burger-web.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/zowear.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/chat-app.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/nikeshoes.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/medihome.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
+    "title": "Wanderlust",
     "imageSrc": "projects/wanderlust.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A travel web app for exploring and managing travel destinations, featuring authentication and interactive maps.",
+    "skills": ["MongoDB", "Expressjs", "Nodejs", "Passport", "EJS", "Mapbox"],
+    "demo": "https://wanderlust-iwaqasrafiqs-projects.vercel.app/listings",
+    "source": "https://github.com/IWaqasRafiq/wanderlust"
+  },
+  {
+    "title": "Indore Plants",
+    "imageSrc": "projects/plant-web.png",
+    "description": "A simple project built to practice styling and layouts using Tailwind CSS.",
+    "skills": ["Tailwind CSS", "Vite"],
+    "demo": "https://indoreplats.netlify.app/",
+    "source": "https://github.com/IWaqasRafiq/Plants"
+  },
+  {
+    "title": "The Burgers",
+    "imageSrc": "projects/burger-web.png",
+    "description": "A front-end project focused on creating a modern and responsive UI for a food-themed app.",
+    "skills": ["React", "Tailwind CSS", "Nodejs"],
+    "demo": "https://theburgers.netlify.app/",
+    "source": "https://github.com/IWaqasRafiq/TheBurgers"
+  },
+  {
+    "title": "Nike Shoes",
+    "imageSrc": "projects/nikeshoes.png",
+    "description": "A modern landing page showcasing Nike shoes, built with only HTML and CSS to practice responsive design and clean layouts.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://iwaqasrafiq.github.io/Nike-Shoes/",
+    "source": "https://www.github.com/IWaqasRafiq/Nike-Shoes"
   }
 ]
